@@ -12,7 +12,7 @@ const App= () => {
         <meta property="og:title" content="Lil Lemon" />
         <meta property="og:type" content="cafe webpage" />
         <meta property="og:url" content="https://www.github.com/ch3ls3a-r3v3/lil-lemon" />
-<meta property="og:image" content="https://github.com/ch3ls3a-r3v3/lil-lemon" />
+<meta property="og:image" content="logo192.png" />
         </title>
         <Img></Img>
         </Header>
