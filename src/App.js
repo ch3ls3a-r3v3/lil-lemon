@@ -3,6 +3,16 @@ import Header from './components/Header';
 import Main from './components/Main';
 import Footer from './components/Footer';
 import './App.css';
+import { StatusBar } from 'expo-status-bar';
+import { Stylesheet, Text, Veiw } from 'react-native'
+export default function app() {
+  return (
+    <Veiw style={styles.container}>
+    <Text>Open up app.js to start working</Text>
+    <StatusBar style="auto" />
+    </Veiw>
+  );
+}
 
 const App= () => {
   return (
