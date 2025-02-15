@@ -1,11 +1,10 @@
 {
-<<<<<<< HEAD
-  "devDependencies": {
+  "devDependencies": 
     "add": "^2.0.6",
     "eslint": "^8.57.1",
     "prettier": "^3.4.2",
     "prettier-eslint": "^16.3.0"
-=======
+
   "name": "lil-lemon",
   "version": "0.1.0",
   "private": true,
@@ -39,6 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
->>>>>>> c6d4e5be692860e9b565f647f062d3c130a674ca
   }
 }
